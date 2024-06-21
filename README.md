@@ -5,6 +5,7 @@
 
 This is a small python project that i just felt like doing :). You can search prime numbers with it and you can customise it a lot!
 Here is the explenaiton:
+  
   -Fast mode:
     When searching for prime numbers, when the programm detects, that the number is devidable by some number, it skips the progress and only shows this       
     particular number. Is useful for actually searching for prime numbers, but still having some information about the number. Set to True, if you want 
